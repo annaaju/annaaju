@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a Anna!
 - 👀 Sou interessada em solucionar problemas, engajar e facilitar vidas através da tecnologia
-- 🌱 Atualmente estou aprendendo sobre desenvolvimento Full-Stack
+- 🌱 Atualmente estou aprendendo e interessada sobre áreas na Engenharia de Software além do desenvolvimento
 - 📫 Contato: annajuliaprimo@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Antes de conhecer a Engenharia de Software, queria ser Médica Veterinária

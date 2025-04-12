@@ -1,5 +1,5 @@
-- 👋 Olá, eu sou a Anna!
-- 👀 Sou interessada em solucionar problemas, engajar e facilitar vidas através da tecnologia
+# 👋 Olá, eu sou a Anna!
+- 👀 Quero solucionar problemas, engajar e facilitar vidas através da tecnologia
 - 🌱 Atualmente estou aprendendo e interessada sobre áreas na Engenharia de Software além do desenvolvimento
 - 📫 Contato: annajuliaprimo@gmail.com
 - 😄 Pronomes: ela/dela
